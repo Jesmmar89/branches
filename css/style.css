@@ -9,7 +9,6 @@
 }
 .footerdiv{
 	margin-left: 50%;
-
 }
 .botonVerMas{
 	border-radius: 5%;
@@ -23,6 +22,16 @@
 	background-color:#0000e6;
 	font-size: 16px;
 	color: white;
+}
+#imgBridge{
+	width: 100%;
+	height: 300px;
+	padding-top: 10%;
+}
+.imgsvermas{
+	width: 300px;
+	height: 300px;
+	margin-left: 2%;
 }
 p{
 	padding-bottom: 4%;
