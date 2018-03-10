@@ -1,0 +1,32 @@
+#logo{
+	display: block;
+	width: 50px;
+	padding-bottom: 3%;
+}
+#imgheader{
+ width: 95%;
+ height: 250px;
+}
+.footerdiv{
+	margin-left: 50%;
+
+}
+.botonVerMas{
+	border-radius: 5%;
+	background-color: #ff1a1a;
+	font-size: 16px;
+	color: white;
+	margin-left: 30%;
+}
+.leerMas{
+	border-radius: 5%;
+	background-color:#0000e6;
+	font-size: 16px;
+	color: white;
+}
+p{
+	padding-bottom: 4%;
+}	
+h2{
+	padding-top: 4%;
+}
